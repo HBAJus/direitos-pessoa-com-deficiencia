@@ -39,7 +39,7 @@ LBI: [Lei 13.146/2015 compilada](https://www.planalto.gov.br/ccivil_03/_ato2015-
 | Lei 10.048/2000 | Atendimento prioritário a PcD, idosos 60+, gestantes, lactantes, pessoas com crianças de colo, obesos, pessoas com TEA, pessoas com mobilidade reduzida e doadores de sangue (estes três incluídos pela Lei 14.626/2023) | [planalto](https://www.planalto.gov.br/ccivil_03/leis/l10048.htm) | V |
 | Lei 14.626/2023 | Altera as Leis 10.048/2000 e 10.205/2001 | [planalto](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14626.htm) | V |
 | LBI, art. 9º | Prioridade em socorro, serviços públicos, pontos de atendimento, acesso a informações, recebimento de restituição de IR, **tramitação processual** (VII) | LBI | V |
-| CPC, art. 1.048, I | Prioridade de tramitação para PcD e pessoas com doença grave | [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm) | C |
+| CPC, art. 1.048, I | Prioridade de tramitação para pessoa com 60 anos ou mais ou "portadora de doença grave" (as do art. 6º, XIV, da Lei 7.713/1988). Para PcD em geral, a base é a LBI, art. 9º, VII | [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm) | S |
 | Lei 14.624/2023 (LBI, art. 2º-A) | Cordão de girassol, deficiências ocultas | [planalto](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14624.htm) | V |
 | Lei 13.977/2020 (Lei Romeo Mion) | CIPTEA: carteira da pessoa com TEA, gratuita, validade de 5 anos, para atenção integral e prioridade | [planalto](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13977.htm) | V |
 
@@ -56,12 +56,12 @@ LBI: [Lei 13.146/2015 compilada](https://www.planalto.gov.br/ccivil_03/_ato2015-
 | ABNT NBR 17225:2025 | Acessibilidade em conteúdo e aplicações web | lista da Câmara | V |
 | Resolução CONTRAN 965/2022 | Vagas e credencial de estacionamento para idosos e PcD; alterada pela Res. 1.012/2024 (credencial digital com QR Code) | [gov.br](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9652022.pdf) | V |
 | Resolução CNJ 401/2021 | Acessibilidade e inclusão no Poder Judiciário (alterada, entre outras, pelas Res. 549/2024 e 561/2024) | [CNJ](https://atos.cnj.jus.br/atos/detalhar/3987) | V |
-| Lei 10.436/2002 e Decreto 5.626/2005 | Libras como meio legal de comunicação | planalto | C |
-| Lei 11.126/2005 | Ingresso e permanência com cão-guia | planalto | C |
+| Lei 10.436/2002 e Decreto 5.626/2005 | Libras como meio legal de comunicação e expressão; regulamento (formação de professores e intérpretes, atendimento em Libras) | [Lei 10.436](https://www.planalto.gov.br/ccivil_03/leis/2002/l10436.htm) / [Decreto 5.626](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/decreto/d5626.htm) | V |
+| Lei 11.126/2005 | Direito de ingressar e permanecer com cão-guia em ambientes de uso coletivo | [planalto](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11126.htm) | V |
 
 ## 4. Pontos práticos
 
 - **Acessibilidade x adaptação razoável**: acessibilidade é dever geral e prévio (desenho universal); adaptação razoável é a medida individual quando a acessibilidade não basta. A recusa desta é discriminação.
-- **Estacionamento**: credencial expedida pelo órgão de trânsito do município vale em todo o território nacional (LBI, art. 47, § 2º, conferir; Res. CONTRAN 965/2022).
+- **Estacionamento**: a credencial é fornecida pelos órgãos de trânsito (LBI, art. 47, § 2º), vincula-se à pessoa com comprometimento de mobilidade e vale em todo o território nacional (art. 47, § 4º). S. Res. CONTRAN 965/2022. V
 - **Sites e aplicativos**: LBI, art. 63, e NBR 17225:2025 fundamentam exigência de acessibilidade digital de empresas com sede ou representação no país e de órgãos públicos.
 - **Banheiro acessível**: NBR 9050 prevê sanitário acessível com entrada independente; argumentar com CDPD art. 9 quando só há boxe em sanitário coletivo, especialmente se a pessoa precisa de acompanhante de outro gênero.

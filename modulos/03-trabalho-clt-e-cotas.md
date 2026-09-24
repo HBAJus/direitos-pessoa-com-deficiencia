@@ -21,17 +21,17 @@
 
 | Norma | Conteúdo | Fonte | Status |
 |---|---|---|---|
-| CF, art. 7º, XXXI | Vedada discriminação no salário e na admissão | CF | C |
+| CF, art. 7º, XXXI | Vedada discriminação no salário e na admissão | CF | V |
 | LBI, arts. 34 a 38 | Trabalho em ambiente acessível e inclusivo; vedada discriminação em recrutamento, seleção, admissão, exames, permanência e ascensão; habilitação e reabilitação; colocação competitiva com tecnologia assistiva e adaptação razoável; trabalho com apoio | [LBI](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm) | V |
 | Lei 9.029/1995 | Veda práticas discriminatórias, inclusive por deficiência e reabilitação profissional (art. 1º); dispensa discriminatória gera reintegração com ressarcimento ou remuneração em dobro, além de dano moral (art. 4º) | [planalto](https://www.planalto.gov.br/ccivil_03/leis/l9029.htm) | V |
-| Súmula 443 do TST | Presume-se discriminatória a dispensa de empregado com HIV ou doença grave que suscite estigma; direito à reintegração | tst.jus.br | S |
+| Súmula 443 do TST (Res. 185/2012) | "Presume-se discriminatória a despedida de empregado portador do vírus HIV ou de outra doença grave que suscite estigma ou preconceito. Inválido o ato, o empregado tem direito à reintegração no emprego." A ADPF 648 (CNI), Rel. Min. Cármen Lúcia, não foi conhecida em 18/06/2021 (sem exame de mérito) | tst.jus.br | S |
 
 ## 3. Jornada, teletrabalho e adaptação razoável
 
 | Norma ou precedente | Conteúdo | Status |
 |---|---|---|
 | CLT, art. 75-F (Lei 14.442/2022) | Prioridade no teletrabalho para empregados **com deficiência** e para empregados com filhos ou criança sob guarda judicial **até 4 anos** | V ([Lei 14.442](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14442.htm)) |
-| **Tema 138 do TST** (Pleno, 16/05/2025; paradigma RR-594-13.2023.5.20.0006) | "O empregado público que possui filho com TEA tem direito à redução de jornada, sem diminuição proporcional de remuneração e independentemente de compensação de horário", por analogia ao art. 98 da Lei 8.112/1990 | S (conferir número do tema no site do TST) |
+| **Tema 138 do TST** (IRR; Pleno, 16/05/2025; paradigma RR-594-13.2023.5.20.0006) | "O empregado público que possui filho com Transtorno do Espectro Autista (TEA) tem direito à redução de jornada, sem diminuição proporcional de remuneração e independentemente de compensação de horário", por analogia ao art. 98, §§ 2º e 3º, da Lei 8.112/1990 | S (número do tema confirmado no título do PDF oficial do TST, [IRR138](https://www.tst.jus.br/documents/10157/0/IRR138.pdf/eb5301b8-acde-1fae-3654-ee20c5fd605f?t=1747676389176)) |
 | TST, RR-20253-08.2018.5.04.0821 (7ª T., 29/11/2023) | Empresa privada: redução de jornada sem redução salarial para empregada com filho com deficiência, por analogia ao art. 98, § 3º, da Lei 8.112 e com base na CDPD (adaptação razoável) | V |
 | TST, RR-1000330-74.2020.5.02.0041 (2ª T., 12/03/2025) | Empregado público: redução de 50% da jornada sem redução salarial | V |
 

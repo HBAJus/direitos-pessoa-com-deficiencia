@@ -7,7 +7,7 @@
 | Norma | Conteúdo | Fonte | Status |
 |---|---|---|---|
 | CDC, art. 6º, parágrafo único (LBI) | Informação sobre produtos e serviços deve ser acessível à PcD | [CDC](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm) | V |
-| LBI, art. 69 | Informação acessível em produtos e serviços | LBI | C (conferir texto) |
+| LBI, art. 69 | Informações corretas e claras sobre produtos e serviços, inclusive riscos ao consumidor com deficiência; recursos de acessibilidade em canais virtuais e publicidade a expensas do fornecedor (§ 1º) | LBI | S |
 | LBI, arts. 4º e 88 | Recusa de atendimento ou de adaptação razoável é discriminação e pode ser crime | LBI | V |
 | Cardápio em braile | **Não há lei federal**; há leis estaduais e municipais | - | V (ausência) |
 

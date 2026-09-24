@@ -46,8 +46,8 @@ Página oficial: [ohchr.org/en/treaty-bodies/crpd/general-comments](https://www.
 | 6 | 2018 | 5 | Igualdade e não discriminação | V |
 | 7 | 2018 | 4.3 e 33.3 | Participação das PcD e de suas organizações | V |
 | 8 | 2022 | 27 | Trabalho e emprego (CRPD/C/GC/8) | V |
-| 11 | 2026 | 29 | Participação na vida política e pública | S (consta na página; data de adoção só em fonte secundária) |
-| 9 e 10 | - | - | Não constam na página oficial em 09/2026 | C |
+| 9 e 10 | 2026 | 11 | Situações de risco e emergências humanitárias. Adotados na 35ª sessão (ago/2026) segundo o resumo oficial da ONU Genebra; ainda não listados na página de Comentários Gerais (símbolos, datas e temas exatos: C) | V (adoção) |
+| 11 | 27/08/2026 | 29 | Participação na vida política e pública (CRPD/C/GC/11) | V |
 
 Outros documentos do Comitê:
 
@@ -67,7 +67,7 @@ Outros documentos do Comitê:
 | Documento | Data | Fonte | Status |
 |---|---|---|---|
 | CRPD/C/BRA/CO/1 (relatório inicial) | 2015 | [ohchr](https://www.ohchr.org/en/documents/concluding-observations/crpdcbraco1-concluding-observations-initial-report-brazil) | V |
-| 2º e 3º ciclos | Não concluídos até 09/2026 (Treaty Body Database só lista o ciclo inicial) | [tbinternet](https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/TBSearch.aspx?Lang=en&TreatyID=4&CountryID=24) | V |
+| 2º e 3º ciclos | Não concluídos até 09/2026: o Brasil não esteve nas pautas da 34ª e 35ª sessões; documentos CRPD/C/BRA/2-3 não localizados (conferir manualmente no Treaty Body Database) | [tbinternet](https://tbinternet.ohchr.org/_layouts/15/TreatyBodyExternal/TBSearch.aspx?Lang=en&TreatyID=4&CountryID=24) | V |
 
 ## 4. Outros tratados
 
@@ -75,9 +75,9 @@ Outros documentos do Comitê:
 |---|---|---|---|---|
 | Convenção Interamericana para a Eliminação de Todas as Formas de Discriminação contra as Pessoas Portadoras de Deficiência (Guatemala). Decreto 3.956/2001 | Conceito de discriminação; obrigações dos Estados | Supralegal | [planalto](https://www.planalto.gov.br/ccivil_03/decreto/2001/d3956.htm) | V |
 | Tratado de Marraqueche. Decreto Legislativo 261/2015 e Decreto 9.522/2018 | Acesso a obras publicadas por pessoas cegas, com deficiência visual ou dificuldade de acesso ao texto impresso | **Equivalente a emenda** | [planalto](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9522.htm) | V |
-| Convenção OIT nº 159 (reabilitação profissional e emprego de PcD) | Política nacional de reabilitação e emprego | Supralegal | buscar em planalto (Decreto de promulgação consolidado no Decreto 10.088/2019) | C |
+| Convenção OIT nº 159 (reabilitação profissional e emprego de PcD) | Política nacional de reabilitação e emprego. Promulgada pelo Decreto 129/1991, hoje revogado e **consolidado no Decreto 10.088/2019 (art. 2º, XLV, Anexo XLV)** | Supralegal | [Decreto 10.088](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/d10088.htm) | V |
 
 ## 5. Sistema interamericano
 
-- Corte IDH: casos sobre deficiência (ex.: *Ximenes Lopes vs. Brasil*, 2006, primeiro caso de condenação do Brasil, envolvendo pessoa com deficiência mental em clínica psiquiátrica). C (conferir em corteidh.or.cr)
+- Corte IDH: casos sobre deficiência (ex.: *Ximenes Lopes vs. Brasil*, sentença de 04/07/2006, Série C nº 149, primeira condenação do Brasil na Corte, sobre morte de pessoa com deficiência mental em clínica psiquiátrica). V
 - Comissão IDH e Protocolo de San Salvador (art. 18, proteção dos deficientes). C

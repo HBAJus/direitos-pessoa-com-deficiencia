@@ -24,10 +24,10 @@
 | Norma | Conteúdo | Status |
 |---|---|---|
 | CPC, art. 747 | Legitimados: cônjuge ou companheiro, parentes ou tutores, representante de entidade de abrigo, MP | S |
-| CPC, art. 751 | Entrevista pessoal do curatelando (pode ser acompanhada de especialista) | C |
+| CPC, art. 751 | Entrevista minuciosa sobre vida, negócios, bens, **vontades, preferências** e laços familiares e afetivos; no local onde a pessoa estiver, se não puder se deslocar; pode ser acompanhada por especialista; uso de recursos tecnológicos para a pessoa se expressar | S |
 | CPC, art. 753 | Perícia, que "pode ser realizada por equipe composta por expertos com formação multidisciplinar"; laudo indica os atos para os quais haverá curatela | S |
 | CPC, art. 755 | Juiz fixa os limites da curatela conforme o desenvolvimento mental e considera **potencialidades, habilidades, vontades e preferências** | S |
-| CPC, art. 756 | Levantamento da curatela quando cessar a causa, inclusive parcial | C |
+| CPC, art. 756 | Levantamento quando cessar a causa; pedido pelo próprio curatelado, curador ou MP; perícia ou equipe multidisciplinar; levantamento parcial possível (§ 4º) | S |
 
 Fonte: [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm). Leitura harmônica: o CPC ainda usa "interdição", mas deve ser lido conforme a LBI e a CDPD: curatela parcial, proporcional, temporária e patrimonial.
 
@@ -45,7 +45,7 @@ Fonte: [CPC](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105
 
 ## 4. Família
 
-- Casamento e união estável: plena capacidade (LBI, art. 6º; CC, art. 1.550, § 2º, incluído pela LBI: a pessoa com deficiência mental ou intelectual em idade núbia pode contrair matrimônio expressando sua vontade diretamente ou por responsável ou curador, conferir). C
+- Casamento e união estável: plena capacidade (LBI, art. 6º; CC, art. 1.550, § 2º, incluído pela LBI, art. 114: a pessoa com deficiência mental ou intelectual em idade núbia pode contrair matrimônio expressando sua vontade diretamente ou por meio de seu responsável ou curador). S
 - Guarda e convivência: a deficiência do genitor não é, por si, motivo para perda ou restrição de guarda (LBI, art. 6º, VI). V
 - Alimentos: REsp 1.642.323 (acima). Pensão alimentícia não afasta automaticamente o BPC, mas entra no cálculo da renda (conferir regulamento). C
 - Inventário extrajudicial com herdeiro incapaz: **Resolução CNJ 571/2024** passou a admitir, com requisitos. S

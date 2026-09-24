@@ -6,7 +6,7 @@
 
 | Norma | Conteúdo | Fonte | Status |
 |---|---|---|---|
-| CF, art. 37, VIII | Lei reservará percentual de cargos e empregos públicos para PcD | CF | C |
+| CF, art. 37, VIII | Lei reservará percentual de cargos e empregos públicos para PcD | CF | S |
 | Lei 8.112/1990, art. 5º, § 2º | Reserva de **até 20%** das vagas em concursos federais | [planalto](https://www.planalto.gov.br/ccivil_03/leis/l8112cons.htm) | V |
 | Decreto 9.508/2018 | Concursos e processos seletivos da administração federal direta e indireta: reserva **mínima de 5%**, arredondamento para cima; adaptações de prova; tempo adicional; avaliação biopsicossocial por equipe multiprofissional | [planalto](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9508.htm) | V |
 | Decreto 12.533/2025 | Altera o Decreto 9.508: vaga reservada só vai à ampla concorrência se não houver PcD inscrito ou aprovado; desistente substituído pelo próximo PcD; adaptações razoáveis | [planalto](https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2025/Decreto/D12533.htm) | V |
@@ -21,7 +21,7 @@
 |---|---|---|
 | Lei 8.112/1990, art. 98, § 2º | Horário especial ao servidor com deficiência, comprovada por junta médica oficial, independentemente de compensação | S |
 | Lei 8.112/1990, art. 98, § 3º (Lei 13.370/2016) | Extensão ao servidor que tenha cônjuge, filho ou dependente com deficiência, também sem compensação | V ([Lei 13.370](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13370.htm)) |
-| **STF, Tema 1097** (RE 1.237.867, plenário virtual de 09 a 16/12/2022) | Tese: "Aos servidores públicos estaduais e municipais é aplicado, para todos os efeitos, o art. 98, § 2° e § 3°, da Lei 8.112/1990" | S ([STF](https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=1097)) |
+| **STF, Tema 1097** (RE 1.237.867/SP, Rel. Min. Ricardo Lewandowski, plenário virtual de 09 a 16/12/2022, unânime; embargos julgados em 01/03/2023) | Tese: "Aos servidores públicos estaduais e municipais é aplicado, para todos os efeitos, o art. 98, § 2° e § 3°, da Lei 8.112/1990" | S ([STF](https://portal.stf.jus.br/jurisprudenciaRepercussao/tema.asp?num=1097)) |
 | Lei 12.764/2012, art. 1º, § 2º | TEA é deficiência para todos os efeitos: o horário especial alcança servidor com filho com TEA | V |
 
 **Consequência**: o servidor estadual ou municipal tem direito ao horário especial mesmo sem lei local, com base no Tema 1097. Lei local mais favorável prevalece.
@@ -30,8 +30,8 @@
 
 - **Não há norma federal** que reserve cargos em comissão para PcD. V (ausência conferida)
 - O Decreto 9.727/2019 foi revogado (Decreto 10.829/2021) e não tratava de PcD; a reserva do Decreto 11.443/2023 é para pessoas negras. V
-- **ADO 97 (STF)**, ajuizada em 09/2026 por associação: pede prazo para o Congresso fixar percentual mínimo de PcD na administração pública. S
-- Alguns estados e municípios têm leis próprias de reserva em comissionados: pesquisar caso a caso (ver módulo 14). Notícia de aprovação em Goiás: C.
+- **ADO 97 (STF)**, ajuizada em 09/2026 pela ANAPcD, Rel. Min. Flávio Dino: pede reconhecimento de omissão e prazo de 18 meses para o Congresso fixar percentual mínimo de PcD nos quadros da administração pública. S
+- Alguns estados e municípios têm leis próprias de reserva em comissionados: pesquisar caso a caso (ver módulo 14). Em Goiás, o projeto (PL 10453/22) foi vetado; vale o mínimo de 1% da Constituição Estadual, art. 92, IX (ver módulo 15).
 - O comissionado com deficiência tem os mesmos direitos de acessibilidade, adaptação razoável e horário especial (art. 98 da Lei 8.112 se aplica ao servidor, inclusive ocupante de cargo em comissão; conferir estatuto local). C
 
 ## 4. Empregados públicos (estatais)

@@ -4,7 +4,7 @@ Aplicável a qualquer UF e município. Registre o resultado de cada passo; se na
 
 ## 1. Competência
 
-- União, estados, DF e municípios têm competência comum para cuidar da proteção das PcD (CF, art. 23, II) e os estados e a União legislam concorrentemente (art. 24, XIV); municípios suplementam no interesse local (art. 30, I e II). C (conferir redação)
+- União, estados, DF e municípios têm competência comum para cuidar da proteção das PcD (CF, art. 23, II) e os estados e a União legislam concorrentemente (art. 24, XIV); municípios suplementam no interesse local (art. 30, I e II). V (arts. 23 e 24); art. 30: S
 - Lei local pode **ampliar** direitos, nunca reduzir o patamar da CDPD e da LBI.
 
 ## 2. Roteiro por tema

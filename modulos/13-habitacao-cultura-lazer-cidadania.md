@@ -27,11 +27,11 @@
 
 - CDPD, art. 29; Comentário Geral nº 11 (2026, participação política; ver módulo 01). V / S
 - LBI, arts. 76 e 77: voto acessível, seções acessíveis, auxílio de pessoa de escolha do eleitor, candidatura. V
-- Resoluções do TSE sobre acessibilidade eleitoral: conferir norma vigente. C
+- TSE: **Res. 23.381/2012** (Programa de Acessibilidade da Justiça Eleitoral), sem revogação anotada; **Res. 23.759, de 26/02/2026**, consolida normas de participação do eleitor (numeração de artigos: C). V
 - Documentos: emissão sem exigência de curatela (LBI, art. 86). V
 
 ## 4. Comunicação acessível
 
-- Libras (Lei 10.436/2002; Decreto 5.626/2005). C
+- Libras (Lei 10.436/2002; Decreto 5.626/2005). V
 - Lei 15.249/2025: comunicação aumentativa e alternativa. V
 - LBI, art. 63 e ABNT NBR 17225:2025: acessibilidade web. V

@@ -41,17 +41,17 @@ Deficiência não é atributo da pessoa isolada: resulta da **interação entre 
 
 | Dispositivo | Conteúdo | Status |
 |---|---|---|
-| Art. 5º, § 3º | Tratados de direitos humanos aprovados em dois turnos por 3/5 equivalem a emendas | C |
-| Art. 7º, XXXI | Proibição de discriminação no salário e na admissão do trabalhador com deficiência | C |
-| Art. 23, II; art. 24, XIV | Competência comum (cuidar da proteção das PcD) e concorrente (legislar sobre proteção e integração social) | C |
-| Art. 37, VIII | Reserva de cargos e empregos públicos para PcD | C |
+| Art. 5º, § 3º | Tratados de direitos humanos aprovados em dois turnos por 3/5 equivalem a emendas | V |
+| Art. 7º, XXXI | Proibição de discriminação no salário e na admissão do trabalhador com deficiência | V |
+| Art. 23, II; art. 24, XIV | Competência comum (cuidar da proteção das PcD) e concorrente (legislar sobre proteção e integração social); municípios suplementam no interesse local (art. 30, I e II) | V (arts. 23 e 24); art. 30: S |
+| Art. 37, VIII | Reserva de cargos e empregos públicos para PcD | S |
 | Art. 40, § 4º-A | Aposentadoria diferenciada do servidor com deficiência, com avaliação biopsicossocial (EC 103/2019) | V |
-| Art. 201, § 1º, I | Aposentadoria diferenciada da PcD no RGPS (EC 103/2019) | C |
-| Art. 203, IV e V | Habilitação e reabilitação; benefício de um salário mínimo (BPC) | C |
-| Art. 208, III | Atendimento educacional especializado, preferencialmente na rede regular | C |
-| Art. 227, § 1º, II, e § 2º; art. 244 | Programas de prevenção e atendimento; acessibilidade em logradouros, edifícios e transporte coletivo | C |
+| Art. 201, § 1º, I | Aposentadoria diferenciada da PcD no RGPS (EC 103/2019) | V |
+| Art. 203, IV e V | Habilitação e reabilitação; benefício de um salário mínimo (BPC) | S |
+| Art. 208, III | Atendimento educacional especializado, preferencialmente na rede regular | S |
+| Art. 227, § 1º, II, e § 2º; art. 244 | Programas de prevenção e atendimento; acessibilidade em logradouros, edifícios e transporte coletivo | S (trecho final do art. 227, § 1º, II: C) |
 
-Fonte: [CF compilada](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm). Os itens C são dispositivos conhecidos e estáveis, mas a redação deve ser conferida antes da citação literal.
+Fonte: [CF compilada](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm). Itens S foram conferidos em repositório secundário porque o texto compilado do Planalto é extenso e a leitura automatizada vem truncada; conferir a pontuação antes da citação literal.
 
 ## 4. Princípios de interpretação
 
