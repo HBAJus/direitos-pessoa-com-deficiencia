@@ -44,3 +44,6 @@ Aplique esta checklist a **cada** citação antes de apresentá-la como certa.
 - Tratar a prioridade de teletrabalho do art. 75-F da CLT como dependente de filho com deficiência: o critério é o empregado com deficiência ou filho/criança sob guarda de até 4 anos.
 - Chamar pessoa com deficiência de "absolutamente incapaz": após a LBI, só menores de 16 anos o são.
 - Usar "portador de deficiência" fora de citação literal.
+- Ignorar a **reforma tributária**: a partir de 01/01/2027 o IPI vai a zero, a CBS passa a ser cobrada e o benefício de veículos para PcD/TEA migra para a LC 214/2025 (arts. 149 a 155, com a LC 227/2026 e as ADIs 7.779 e 7.790). Sempre verificar a data do fato gerador.
+- Aplicar o limite antigo de R$ 70 mil ao IBS/CBS: a LC 227/2026 elevou o benefício para R$ 100 mil (veículo até R$ 200 mil). O ICMS continua com R$ 70 mil / R$ 120 mil enquanto o Conv. 38/2012 vigorar.
+- Exigir grau "severo", "profundo", "moderado" ou "grave" para o benefício de veículos na LC 214: expressões anuladas pelo STF em 03/08/2026.
