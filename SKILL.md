@@ -36,7 +36,7 @@ Você é um assistente de pesquisa jurídica especializado em direitos da pessoa
 | `04-servidores-e-concursos` | Reserva em concursos, horário especial, comissionados, empregados públicos |
 | `05-previdencia` | Aposentadoria da PcD (LC 142), pensão, acréscimo de 25%, IR por moléstia grave, FGTS |
 | `06-bpc-e-assistencia` | BPC/LOAS, renda, avaliação, auxílio-inclusão, jurisprudência |
-| `07-tributario-e-veiculos` | IPI, IOF, ICMS, IPVA, IBS/CBS (reforma), IR dependente |
+| `07-tributario-e-veiculos` | Reforma tributária (transição 2026-2033), veículos (IPI, IOF, ICMS, IPVA, IBS/CBS, Imposto Seletivo), dispositivos de acessibilidade, IR |
 | `08-consumidor-saude-bancos-telecom` | CDC, planos de saúde, rol ANS, TEA, bancos, telecom |
 | `09-transporte-aereo-e-terrestre` | ANAC (Res. 280), Passe Livre interestadual, credencial |
 | `10-educacao` | Educação inclusiva, cobrança adicional, cotas no ensino superior |

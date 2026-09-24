@@ -4,7 +4,7 @@ Repositório aberto de **instruções, protocolos e base normativa** para que as
 
 O foco não é substituir a pesquisa, e sim **dirigi-la**: dizer à IA onde buscar, como conferir vigência e redação atual, como distinguir tese vinculante de precedente isolado e como declarar, com honestidade, o que foi e o que não foi confirmado.
 
-> Última verificação geral da base: **24/09/2026**. Normas mudam. Toda citação deve ser reconferida na fonte oficial antes de uso profissional.
+> Última verificação geral da base: **24/09/2026** (revisão das pendências e da reforma tributária na mesma data). Normas mudam. Toda citação deve ser reconferida na fonte oficial antes de uso profissional.
 
 ## Para que serve
 
